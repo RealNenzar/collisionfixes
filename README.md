@@ -21,9 +21,9 @@ Fix bad collisions in GTA V.
 
 ## Deutsch
 
-Behebung fehlerhafter Kollisionsbereiche in GTA V.
+Behebung fehlerhafter Kollisions in GTA V.
 
-- Unsichtbare Kollisionsfläche nahe dem Ölfeld in Sandy Shores: `743.266846, 2896.09473, 52.6717033`  
+- Unsichtbare Kollision nahe dem Ölfeld in Sandy Shores: `743.266846, 2896.09473, 52.6717033`  
   ![Screenshot1](https://i.imgur.com/JyX2DN1.png)
 
 - Zu große Baumkollision nahe dem Casino: `1097.16077, 443.1183, 98.353`  

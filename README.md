@@ -13,6 +13,9 @@ Fix bad collisions in GTA V.
 - Oversized tree branch collision between Madrazo Ranch and Casino: `1241.10791, 692.73, 103.761337`  
   ![Screenshot3](https://i.imgur.com/4HYOyGc.png)
 
+- Invisible collision near Leagion Square Parking Lot leftside FIB Tower `239.83, -770.91, 34.94`
+  ![Screenshot4](https://i.imgur.com/7qel7aj.png)
+
 ## Installation Instructions
 1. Download the package containing the resource.  
 2. Move the **"collisionfixes"** folder into your server’s resource directory.  
@@ -31,6 +34,9 @@ Behebung fehlerhafter Kollisions in GTA V.
 
 - Zu große Baumzweig-Kollision zwischen Madrazo Ranch und Casino: `1241.10791, 692.73, 103.761337`  
   ![Screenshot3](https://i.imgur.com/4HYOyGc.png)
+
+- Unsichtbare Kollision am Würfelpark Parkplatz Links vom FIB Tower `239.83, -770.91, 34.94`
+  ![Screenshot4](https://i.imgur.com/7qel7aj.png)
 
 ## Installationsanleitung
 1. Lade das Paket mit der Ressource herunter.  
